@@ -1,0 +1,15 @@
+type project
+owners
+    pocketberserker
+authors
+    pocketberserker
+projectUrl
+    https://github.com/pocketberserker/FCure
+licenseUrl
+    https://github.com/perpocketberserker/FCure/blob/master/LICENSE
+requireLicenseAcceptance
+    false
+tags
+    fsharp
+description
+    .
